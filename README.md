@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shriya-5
-- 👀 I’m interested in coding,reading book and sports
+- 👀 I’m interested in coding,reading books ,playing guitar and sports.
 - 🌱 I’m currently persuming my Btech 2nd year in Madras Institute of Technology.
-- 💞️ I’m looking to collaborate on ...
 - 📫 gmail:shriya592002@gmail.com
 
 <!---
