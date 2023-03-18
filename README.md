@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 ![Shriya's github stats](https://github-readme-stats.vercel.app/api?username=shriya-5&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shriya-5)
 <p align="center">
-
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriya-5&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="shriya-5" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shriya-5&theme=highcontrast&hide_border=true" alt="shriya-5" />
 </p>
