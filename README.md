@@ -1,6 +1,6 @@
 Hi, I'm Shriya S <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-- 👀 I’m interested in coding,reading books ,playing guitar and sports.
-- 🌱 I’m currently persuming my B.tech 3rd year in Madras Institute of Technology.
+- 👀 I’m interested in coding,reading books, playing guitar and sports.
+- 🌱 I’m currently pursuing my B.tech 3rd year at Madras Institute of Technology.
 - 📫 gmail: shriya592002@gmail.com
 
 <!---
